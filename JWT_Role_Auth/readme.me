@@ -1,0 +1,28 @@
+please select you ssms database(windows auth..) and portnumber check....
+## 1-
+remove token authorize atribute in employee controller and in program.cs file remove jwt token middleware
+so, you can check employee api without auth or jwt token. you can add one employee to seeyour api result.
+
+## 2-
+add above steps for jwt token generation and auth
+
+## 3-
+first create one user in "api/adduser"
+
+## 4-
+first create one role in "api/addrole"
+
+## 5-
+assign one role to user in "api/assignrole"
+
+## 6-
+do login using "api/login". and getting token.
+
+## 7-
+copy token and open postman or above authorize button where paste token there.
+in postman (open postman and select get req. and also authorization option -> bearer token and paste token which is get from swagger)
+
+##8 -
+now you can access employee api by role base  auth...
+
+

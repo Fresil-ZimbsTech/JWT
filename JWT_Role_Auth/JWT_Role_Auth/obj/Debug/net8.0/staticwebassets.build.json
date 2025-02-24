@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JuojOsUDZunJwPjBISeL/K9OejcHlz8/MNXBVmRoT80=",
+  "Source": "JWT_Role_Auth",
+  "BasePath": "_content/JWT_Role_Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

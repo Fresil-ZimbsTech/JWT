@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\jwt_role_auth\\jwt_role_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|solutionrelative:jwt_role_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\jwt_role_auth\\jwt_role_auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|solutionrelative:jwt_role_auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\jwt_role_auth\\jwt_role_auth\\migrations\\20250224051830_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|solutionrelative:jwt_role_auth\\migrations\\20250224051830_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\jwt_role_auth\\jwt_role_auth\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|solutionrelative:jwt_role_auth\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\jwt_role_auth\\jwt_role_auth\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|solutionrelative:jwt_role_auth\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\jwt_role_auth\\jwt_role_auth\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|solutionrelative:jwt_role_auth\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\jwt_role_auth\\jwt_role_auth\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|solutionrelative:jwt_role_auth\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|c:\\users\\diya patel\\desktop\\dotnetbasic\\jwt_role_auth\\jwt_role_auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A597D3FD-51E7-4D7A-864F-68C24C003FE4}|JWT_Role_Auth\\JWT_Role_Auth.csproj|solutionrelative:jwt_role_auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250224051830_first.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Migrations\\20250224051830_first.cs",
+              "RelativeDocumentMoniker": "JWT_Role_Auth\\Migrations\\20250224051830_first.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Migrations\\20250224051830_first.cs",
+              "RelativeToolTip": "JWT_Role_Auth\\Migrations\\20250224051830_first.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:46:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "JWT_Role_Auth\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Models\\UserRole.cs",
+              "RelativeToolTip": "JWT_Role_Auth\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:42:05.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWT_Role_Auth\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Services\\AuthService.cs",
+              "RelativeToolTip": "JWT_Role_Auth\\Services\\AuthService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:31:17.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_Role_Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Program.cs*",
+              "RelativeToolTip": "JWT_Role_Auth\\Program.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwE0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:09:05.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "JWT_Role_Auth\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "JWT_Role_Auth\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:02:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "JWT_Role_Auth\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "JWT_Role_Auth\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:55:53.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JWT_Role_Auth\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "JWT_Role_Auth\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:48:17.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT_Role_Auth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\DotNetBasic\\JWT_Role_Auth\\JWT_Role_Auth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT_Role_Auth\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:31:55.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
