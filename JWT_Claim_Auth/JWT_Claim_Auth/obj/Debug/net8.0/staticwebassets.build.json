@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "53AM52sAzRZn/ATbQsFW5snx+voacFHDXd+9BiO9xL4=",
+  "Source": "JWT_Claim_Auth",
+  "BasePath": "_content/JWT_Claim_Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

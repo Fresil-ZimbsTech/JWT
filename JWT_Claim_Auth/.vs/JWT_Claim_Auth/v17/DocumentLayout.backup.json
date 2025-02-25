@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_claim_auth\\jwt_claim_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|solutionrelative:jwt_claim_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_claim_auth\\jwt_claim_auth\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|solutionrelative:jwt_claim_auth\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_claim_auth\\jwt_claim_auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|solutionrelative:jwt_claim_auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_claim_auth\\jwt_claim_auth\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|solutionrelative:jwt_claim_auth\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_claim_auth\\jwt_claim_auth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3F82C7-1A3C-4DB9-A0C2-AE325D16CF6E}|JWT_Claim_Auth\\JWT_Claim_Auth.csproj|solutionrelative:jwt_claim_auth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWT_Claim_Auth\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Models\\User.cs",
+              "RelativeToolTip": "JWT_Claim_Auth\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:19:33.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "JWT_Claim_Auth\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Models\\Employee.cs",
+              "RelativeToolTip": "JWT_Claim_Auth\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:19:29.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_Claim_Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Program.cs",
+              "RelativeToolTip": "JWT_Claim_Auth\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:49:33.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "JWT_Claim_Auth\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "JWT_Claim_Auth\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:44:47.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWT_Claim_Auth\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Claim_Auth\\JWT_Claim_Auth\\Services\\AuthService.cs",
+              "RelativeToolTip": "JWT_Claim_Auth\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:43:13.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
