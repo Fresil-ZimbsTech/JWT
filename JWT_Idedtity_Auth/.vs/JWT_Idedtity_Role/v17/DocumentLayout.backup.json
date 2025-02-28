@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|c:\\users\\techn\\desktop\\jwt_idedtity_auth\\auth_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|solutionrelative:auth_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|c:\\users\\techn\\desktop\\jwt_idedtity_auth\\auth_api\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|solutionrelative:auth_api\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|c:\\users\\techn\\desktop\\jwt_idedtity_auth\\auth_api\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|solutionrelative:auth_api\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|c:\\users\\techn\\desktop\\jwt_idedtity_auth\\auth_api\\context\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|solutionrelative:auth_api\\context\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|c:\\users\\techn\\desktop\\jwt_idedtity_auth\\auth_api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|solutionrelative:auth_api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|c:\\users\\techn\\desktop\\jwt_idedtity_auth\\auth_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|solutionrelative:auth_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|c:\\users\\techn\\desktop\\jwt_idedtity_auth\\auth_api\\migrations\\20250228101417_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|solutionrelative:auth_api\\migrations\\20250228101417_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250228101417_first.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Migrations\\20250228101417_first.cs",
+              "RelativeDocumentMoniker": "Auth_API\\Migrations\\20250228101417_first.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Migrations\\20250228101417_first.cs",
+              "RelativeToolTip": "Auth_API\\Migrations\\20250228101417_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:14:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\appsettings.json",
+              "RelativeToolTip": "Auth_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T10:11:43.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Auth_API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Auth_API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:55:06.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Auth_API\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Auth_API\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:23:14.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Controllers\\UserAuthController.cs",
+              "RelativeDocumentMoniker": "Auth_API\\Controllers\\UserAuthController.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Controllers\\UserAuthController.cs",
+              "RelativeToolTip": "Auth_API\\Controllers\\UserAuthController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv44AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:18:46.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Context\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Auth_API\\Context\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Context\\ApplicationUser.cs",
+              "RelativeToolTip": "Auth_API\\Context\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:18:29.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Program.cs",
+              "RelativeDocumentMoniker": "Auth_API\\Program.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\JWT_Idedtity_Auth\\Auth_API\\Program.cs",
+              "RelativeToolTip": "Auth_API\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:09:48.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
