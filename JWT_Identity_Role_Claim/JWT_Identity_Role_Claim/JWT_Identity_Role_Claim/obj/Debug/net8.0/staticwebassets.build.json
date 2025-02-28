@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uGkBscCSNU+2+Fg0mqTYyJdg4Q8EdBYi4WP/7Etq2sA=",
+  "Source": "JWT_Identity_Role_Claim",
+  "BasePath": "_content/JWT_Identity_Role_Claim",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
