@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_idedtity_auth\\auth_ui\\views\\home\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|solutionrelative:auth_ui\\views\\home\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_idedtity_auth\\auth_ui\\views\\home\\protected.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|solutionrelative:auth_ui\\views\\home\\protected.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_idedtity_auth\\auth_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|solutionrelative:auth_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_idedtity_auth\\auth_ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|solutionrelative:auth_ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_idedtity_auth\\auth_ui\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|solutionrelative:auth_ui\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_idedtity_auth\\auth_ui\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00B65387-01FB-4ABA-950E-C3F5F5CC4E54}|Auth_UI\\Auth_UI.csproj|solutionrelative:auth_ui\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_idedtity_auth\\auth_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|solutionrelative:auth_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|c:\\users\\diya patel\\desktop\\jwt\\jwt_idedtity_auth\\auth_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2277AEE5-1446-42D1-BF91-A9FFD7411DCE}|Auth_API\\Auth_API.csproj|solutionrelative:auth_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Home\\Students.cshtml",
+              "RelativeDocumentMoniker": "Auth_UI\\Views\\Home\\Students.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Home\\Students.cshtml*",
+              "RelativeToolTip": "Auth_UI\\Views\\Home\\Students.cshtml*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T06:34:18.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Protected.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Home\\Protected.cshtml",
+              "RelativeDocumentMoniker": "Auth_UI\\Views\\Home\\Protected.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Home\\Protected.cshtml",
+              "RelativeToolTip": "Auth_UI\\Views\\Home\\Protected.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T06:12:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_API\\appsettings.json",
+              "RelativeToolTip": "Auth_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T06:10:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_API\\Program.cs",
+              "RelativeDocumentMoniker": "Auth_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_API\\Program.cs",
+              "RelativeToolTip": "Auth_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:09:48.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Auth_UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Auth_UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:57:08.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Auth_UI\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Auth_UI\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:56:41.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Auth_UI\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Auth_UI\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:56:24.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Auth_UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\JWT_Idedtity_Auth\\Auth_UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Auth_UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:54:56.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
