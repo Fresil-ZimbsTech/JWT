@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VPM7NsltWi+Rq8JFujrJQYpXiS6EvlCD6fnjcaOSqCg=",
+  "Source": "JWT_Identity_Policy",
+  "BasePath": "_content/JWT_Identity_Policy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

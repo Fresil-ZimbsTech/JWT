@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JWT_Identity_Role_Claim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ec4bb4af03ca961028ff07fdd16b8d232ac5320")]
 [assembly: System.Reflection.AssemblyProductAttribute("JWT_Identity_Role_Claim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JWT_Identity_Role_Claim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

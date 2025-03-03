@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\",
+  "WorkspaceRootPath": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Migrations\\20250228121232_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWT_Identity_Role_Claim\\Migrations\\20250228121232_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Migrations\\20250303045500_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWT_Identity_Role_Claim\\Migrations\\20250303045500_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\diya patel\\desktop\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\diya patel\\desktop\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\jwt\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\diya patel\\desktop\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\jwt\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\jwt\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\jwt\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\diya patel\\desktop\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\jwt\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\diya patel\\desktop\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\jwt\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\diya patel\\desktop\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\jwt\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\diya patel\\desktop\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\techn\\desktop\\projects\\dotnet\\jwt\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|c:\\users\\diya patel\\desktop\\jwt_identity_role_claim\\jwt_identity_role_claim\\jwt_identity_role_claim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91AC8E16-F06E-4528-8B62-3B0244BCEE3B}|JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim.csproj|solutionrelative:jwt_identity_role_claim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,10 +50,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
@@ -65,116 +61,114 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250228121232_first.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Migrations\\20250228121232_first.cs",
-              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Migrations\\20250228121232_first.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Migrations\\20250228121232_first.cs",
-              "RelativeToolTip": "JWT_Identity_Role_Claim\\Migrations\\20250228121232_first.cs",
+              "Title": "20250303045500_first.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Migrations\\20250303045500_first.cs",
+              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Migrations\\20250303045500_first.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Migrations\\20250303045500_first.cs",
+              "RelativeToolTip": "JWT_Identity_Role_Claim\\Migrations\\20250303045500_first.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:12:32.377Z",
+              "WhenOpened": "2025-03-03T04:55:00.701Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JWT_Identity_Role_Claim\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:11:09.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "JWT_Identity_Role_Claim\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:11:09.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\appsettings.json",
               "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\appsettings.json",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\appsettings.json",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\appsettings.json",
               "RelativeToolTip": "JWT_Identity_Role_Claim\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-28T12:09:27.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\Student.cs",
               "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\Student.cs",
               "RelativeToolTip": "JWT_Identity_Role_Claim\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:09:11.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterModel.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\RegisterModel.cs",
-              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Models\\RegisterModel.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\RegisterModel.cs",
-              "RelativeToolTip": "JWT_Identity_Role_Claim\\Models\\RegisterModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:08:48.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:09:11.488Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\LoginModel.cs",
-              "RelativeToolTip": "JWT_Identity_Role_Claim\\Models\\LoginModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "JWT_Identity_Role_Claim\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:08:23.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserAuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Controllers\\UserAuthController.cs",
-              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Controllers\\UserAuthController.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Controllers\\UserAuthController.cs",
-              "RelativeToolTip": "JWT_Identity_Role_Claim\\Controllers\\UserAuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:07:55.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "JWT_Identity_Role_Claim\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwEMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:06:34.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:08:48.587Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Models\\LoginModel.cs",
+              "RelativeToolTip": "JWT_Identity_Role_Claim\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:08:23.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Controllers\\UserAuthController.cs",
+              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Controllers\\UserAuthController.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Controllers\\UserAuthController.cs",
+              "RelativeToolTip": "JWT_Identity_Role_Claim\\Controllers\\UserAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:07:55.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "JWT_Identity_Role_Claim\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:06:34.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Program.cs",
               "RelativeDocumentMoniker": "JWT_Identity_Role_Claim\\Program.cs",
-              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Program.cs",
+              "ToolTip": "C:\\Users\\techn\\Desktop\\PROJECTS\\DOTNET\\JWT\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\JWT_Identity_Role_Claim\\Program.cs",
               "RelativeToolTip": "JWT_Identity_Role_Claim\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
